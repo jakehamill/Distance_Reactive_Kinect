@@ -1,4 +1,5 @@
-# Distance_Reactive_Kinect
-### Jake Hamill
+# Distance Reactive Kinect with Videos
+## Jake Hamill
 
-#### Pseudo Code Here 
+#### This code is meant to cycle through a list of videos as the Kinect
+#### senses activity in a specific region of it's feed.
